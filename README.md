@@ -14,6 +14,8 @@ A comprehensive guide for maintaining architectural integrity in software projec
 - [Template](prompts/architectural_stewardship_protocol/template.md)
 - [Example Implementation](prompts/architectural_stewardship_protocol/example.md)
 
+### [Cursor User Rules] (prompts/architectural_stewardship_protocol/cursor_user_rules)
+
 ## 🎯 Key Features
 - Ready-to-use prompt templates
 - Real-world examples
