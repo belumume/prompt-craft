@@ -13,9 +13,8 @@ A curated collection of high-quality prompts for AI-assisted software developmen
 A comprehensive system for generating detailed, actionable project plans using AI assistance.
 - [Template](prompts/project_blueprint_generator/template.md) - Fill out your project details
 - [Meta-Prompt](prompts/project_blueprint_generator/meta_prompt.md) - Instructions for AI assistants
-- [Examples](prompts/project_blueprint_generator/examples/) - Real-world implementations including:
-  - DevSecOps Sentinel (AWS Lambda Hackathon winner)  
-  - IU RAG Application (PydanticAI & Instructor-based)
+- [Example](prompts/project_blueprint_generator/examples/) - Real-world implementation:
+  - DevSecOps Sentinel (AWS Lambda Hackathon winner 🏆)
 
 ### [Architectural Stewardship Protocol](prompts/architectural_stewardship_protocol/)
 A comprehensive guide for maintaining architectural integrity in software projects.

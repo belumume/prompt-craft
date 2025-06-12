@@ -7,12 +7,12 @@ A comprehensive system for generating detailed, actionable project plans using A
 This prompt system helps create world-class project plans by providing:
 - A structured template for project definition
 - Expert AI agent instructions for plan generation
-- Examples of successful implementations
+- A proven example of successful implementation
 
 ## Files
 
 - `template.md` - The main Project Blueprint Template
-- `examples/` - Real-world examples of generated project plans
+- `examples/` - Real-world example of a generated project plan
 - `meta_prompt.md` - The meta-prompt for creating new project blueprints
 
 ## How to Use
@@ -26,10 +26,9 @@ This prompt system helps create world-class project plans by providing:
 - **Structured Approach**: Clear sections for project definition and AI instructions
 - **Expert Methodology**: Based on successful project patterns and best practices
 - **Collaborative Model**: Designed for human-AI "Vibecoding" collaboration
-- **Proven Results**: Templates derived from award-winning project implementations
+- **Proven Results**: Template derived from an award-winning project implementation
 
-## Examples
+## Example
 
-See the `examples/` directory for real implementations including:
-- DevSecOps Sentinel (AWS Lambda Hackathon winner)
-- IU RAG Application (PydanticAI & Instructor-based) 
+See the `examples/` directory for a real implementation:
+- **DevSecOps Sentinel** (AWS Lambda Hackathon winner 🏆) - A serverless DevSecOps platform showcasing event-driven architecture, parallel processing, and AI-powered code analysis 
