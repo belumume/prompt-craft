@@ -17,7 +17,7 @@ You are an expert senior engineer and architect. Your mission is to take the pro
 
 **Required Project Plan Structure:**
 
-Please generate a project plan with the following exact sections, mirroring the structure of successful plans like the DevSecOps Sentinel v2.4 blueprint:
+Please generate a project plan with the following exact sections, mirroring the structure of comprehensive plans like the DevSecOps Sentinel blueprint:
 
 * **1. Introduction:**  
   * 1.1. Vision & Mission  

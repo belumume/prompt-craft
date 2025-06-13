@@ -14,7 +14,7 @@ A comprehensive system for generating detailed, actionable project plans using A
 - [Template](prompts/project_blueprint_generator/template.md) - Fill out your project details
 - [Meta-Prompt](prompts/project_blueprint_generator/meta_prompt.md) - Instructions for AI assistants
 - [Example](prompts/project_blueprint_generator/examples/) - Real-world implementation:
-  - DevSecOps Sentinel (AWS Lambda Hackathon winner 🏆)
+  - DevSecOps Sentinel (Serverless DevSecOps Platform)
 
 ### [Architectural Stewardship Protocol](prompts/architectural_stewardship_protocol/)
 A comprehensive guide for maintaining architectural integrity in software projects.
@@ -29,7 +29,7 @@ Expert coding assistant rules for Cursor IDE integration.
 - **Real-world examples** - Based on successful implementations
 - **Easy to customize** - Clear placeholders and instructions
 - **Comprehensive documentation** - Usage guides and best practices
-- **Proven methodologies** - Templates derived from award-winning projects
+- **Proven methodologies** - Templates derived from comprehensive project implementations
 
 ## 🤝 Contributing
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md).
