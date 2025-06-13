@@ -3,68 +3,73 @@
 We love your input! We want to make contributing to Prompt Craft as easy and transparent as possible, whether it's:
 
 - Reporting a bug
-- Discussing the current state of the templates
+- Discussing the current state of the prompts
 - Submitting a fix
-- Proposing new templates
+- Proposing new prompts
 - Suggesting improvements
 
-## Development Process
+## 🚀 **Quick Start**
 
-We use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
+**For comprehensive contribution guidance**, see our detailed [Contribution Guide](docs/contribution_guide.md) which covers:
+- Domain organization and quality standards
+- Detailed contribution processes and templates
+- Best practices for prompt development
+- Integration patterns and examples
 
-1. Fork the repo and create your branch from `main`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed templates, update the documentation.
-4. Ensure your code follows our style guidelines.
-5. Issue that pull request!
+## 📋 **Basic Process**
 
-## Template Guidelines
+1. **Fork the repo** and create your branch from `main`
+2. **Choose your contribution type:**
+   - **New prompts** → Use [templates](templates/) and follow [domain organization](prompts/)
+   - **Examples** → Add to existing prompt examples directories
+   - **Improvements** → Enhance existing prompts or documentation
+3. **Follow quality standards** outlined in our [Contribution Guide](docs/contribution_guide.md)
+4. **Submit your pull request**
 
-When contributing new templates or modifying existing ones:
+## 🎯 **What We're Looking For**
 
-1. **Clarity**: Templates should be clear and well-documented
-2. **Customization**: Include clear customization points with {PLACEHOLDERS}
-3. **Examples**: Provide example implementations where possible
-4. **Documentation**: Include usage instructions and best practices
-5. **Format**: Follow markdown formatting conventions
+### **High-Quality Prompts**
+- **Immediately actionable** - Solves real development problems
+- **Thoroughly documented** - Clear usage instructions and examples  
+- **Well-integrated** - Fits within our domain-based organization
 
-## Template Structure
+### **Domain Organization**
+Our prompts are organized by problem domain:
+- **[Development](prompts/development/)** - Software development workflows and methodologies
+- **[AI Assistance](prompts/ai_assistance/)** - Tool-specific configurations and integration patterns
 
-Each template should include:
+## 🔧 **Quick Guidelines**
 
-1. Clear title and description
-2. Purpose and intended use
-3. Customization points
-4. Implementation guidelines
-5. Examples (where applicable)
-6. Failure modes and prevention
+### **For New Prompts**
+1. Use our [contribution templates](templates/) for consistency
+2. Place in appropriate domain directory
+3. Include comprehensive README and examples
+4. Follow established documentation patterns
 
-## Pull Request Process
+### **For Examples and Improvements**
+1. Use existing prompt structure as reference
+2. Document real-world effectiveness
+3. Maintain consistency with existing patterns
 
-1. Update the README.md with details of changes if applicable
-2. Update the documentation with details of any new templates
-3. The PR will be merged once you have the sign-off of at least one maintainer
+## 📝 **Pull Request Requirements**
 
-## Any contributions you make will be under the MIT Software License
+1. **Clear description** of what problem you're solving
+2. **Follows domain organization** and quality standards
+3. **Includes documentation** and examples where applicable
+4. **Updates relevant README files** if needed
 
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
+## 🐛 **Bug Reports**
 
-## Report bugs using GitHub's [issue tracker](../../issues)
+Use GitHub's [issue tracker](../../issues) to report bugs. Great bug reports include:
+- Clear summary and background
+- Steps to reproduce (be specific!)
+- Expected vs actual behavior
+- Any relevant context or attempted solutions
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](../../issues/new); it's that easy!
+## 📄 **License**
 
-## Write bug reports with detail, background, and sample code
+By contributing, you agree that your contributions will be licensed under the MIT License.
 
-**Great Bug Reports** tend to have:
+---
 
-- A quick summary and/or background
-- Steps to reproduce
-  - Be specific!
-  - Give sample code if you can.
-- What you expected would happen
-- What actually happens
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
-
-## License
-
-By contributing, you agree that your contributions will be licensed under its MIT License. 
+**For detailed guidance on contributing high-quality prompts, see our comprehensive [Contribution Guide](docs/contribution_guide.md).** 
