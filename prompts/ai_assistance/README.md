@@ -10,6 +10,12 @@ Tool-specific configuration, rules, and integration patterns for AI-powered deve
 - Expert coding assistant behavior patterns and workflows
 - Context synthesis and structured planning methodologies
 
+### 💬 [ChatGPT](chatgpt/)
+**General ChatGPT configurations and system prompts**
+- **Study Mode** - Educational tutor configuration using Socratic method
+- Transforms ChatGPT into specialized assistants for various use cases
+- System-level prompts that fundamentally change AI behavior
+
 ## 🎯 **AI Assistance Philosophy**
 
 These prompts optimize AI coding tools for:
@@ -33,6 +39,7 @@ These prompts optimize AI coding tools for:
 
 1. **Choose Your Tool**
    - **Cursor IDE** → [Cursor/User Rules](cursor/user_rules/)
+   - **ChatGPT** → [ChatGPT Configurations](chatgpt/)
    - **Other tools** → Check back as we expand this domain
 
 2. **Configure for Your Project**

@@ -12,8 +12,9 @@ This collection is organized by **problem domain** to help you quickly find the 
 - **[Project Planning](development/project_planning/)** - Comprehensive project planning methodologies
 
 ### 🤖 [AI Assistance](ai_assistance/)
-**Tool-specific configuration and rules**
+**Tool-specific configuration and system prompts**
 - **[Cursor](ai_assistance/cursor/)** - IDE integration and coding assistant rules
+- **[ChatGPT](ai_assistance/chatgpt/)** - System prompts for specialized behaviors
 
 ## 🚀 **Quick Navigation**
 
@@ -24,6 +25,7 @@ This collection is organized by **problem domain** to help you quickly find the 
 
 ### **By Tool:**
 - **Cursor IDE** → [AI Assistance/Cursor](ai_assistance/cursor/)
+- **ChatGPT** → [AI Assistance/ChatGPT](ai_assistance/chatgpt/)
 - **General Development** → [Development](development/)
 
 ## 📋 **What Each Domain Contains**
