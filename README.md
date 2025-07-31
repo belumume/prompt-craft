@@ -10,6 +10,7 @@ A comprehensive, systematically organized collection of high-quality prompts for
 - **🛠️ Starting a new project?** → [`prompts/development/project_planning/`](prompts/development/project_planning/)
 - **🏗️ Working on existing code?** → [`prompts/development/architecture/`](prompts/development/architecture/)  
 - **🤖 Setting up AI tools?** → [`prompts/ai_assistance/`](prompts/ai_assistance/)
+- **📚 Need educational support?** → [`prompts/ai_assistance/chatgpt/study_mode/`](prompts/ai_assistance/chatgpt/study_mode/)
 
 ### **Browse by Domain:**
 1. **[Development](prompts/development/)** - Software development workflows and methodologies
@@ -32,6 +33,8 @@ This collection is organized by **problem domain** for maximum discoverability a
 
 - **[Cursor](prompts/ai_assistance/cursor/)** - IDE integration and coding assistant rules
   - [User Rules](prompts/ai_assistance/cursor/user_rules/) - Expert-level AI assistant configuration
+- **[ChatGPT](prompts/ai_assistance/chatgpt/)** - System prompts for specialized behaviors
+  - [Study Mode](prompts/ai_assistance/chatgpt/study_mode/) - Educational tutor using Socratic method
 
 ## 🎯 **What Makes This Collection Special**
 
@@ -78,6 +81,9 @@ This collection is organized by **problem domain** for maximum discoverability a
 
 ### **🤖 For AI Tool Configuration**
 **[Cursor User Rules](prompts/ai_assistance/cursor/user_rules/)** - Configure Cursor IDE's AI assistant to behave like an expert senior engineer with systematic workflows.
+
+### **📚 For Educational Assistance**
+**[ChatGPT Study Mode](prompts/ai_assistance/chatgpt/study_mode/)** - Transform ChatGPT into a patient tutor who guides students to discover answers using the Socratic method.
 
 ## 🔄 **Integration Patterns**
 
